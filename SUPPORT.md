@@ -36,4 +36,4 @@ For security-related issues, please see [SECURITY.md](SECURITY.md) instead of cr
 ### Commercial Support
 
 For commercial licensing and enterprise support, contact:
-- Email: info@nelsongrey.com
+- Email: support@nelsongrey.com
