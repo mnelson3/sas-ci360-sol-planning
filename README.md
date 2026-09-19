@@ -2,6 +2,8 @@
 
 ## SAS 360 SOLUTIONS - Planning Module
 
+> **Status: canonical.** This is the actively maintained client for the Plan API.
+
 This repository provides Python interfaces for SAS Customer Intelligence 360 Planning APIs.
 
 ### Overview
